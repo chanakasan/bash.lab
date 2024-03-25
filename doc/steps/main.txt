@@ -1,0 +1,7 @@
+write code in src/
+move to data/finished/ after
+
+
+open terminal
+press ctrl + r to run current file
+
