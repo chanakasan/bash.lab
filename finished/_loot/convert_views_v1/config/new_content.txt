@@ -1,0 +1,11 @@
+<%= polaris_page(
+      title: t(".title")
+    ) do |page| %>
+  <%= polaris_card do %>
+
+<!-- original -->
+PLACEHOLDER
+<!-- end original -->
+
+  <% end %>
+<% end %>

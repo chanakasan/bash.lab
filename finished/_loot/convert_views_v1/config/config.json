@@ -1,0 +1,21 @@
+{
+  "base": "/home/chk/work/pairdev/anyadmin-rails/app/views",
+  "ignore": [
+    "_deleted",
+    "avo*",
+    "assignments",
+    "account_details",
+    "clients",
+    "devise",
+    "errors",
+    "layouts",
+    "mockup",
+    "previews",
+    "positions",
+    "people",
+    "settings",
+    "super",
+    "tenants",
+    "users"
+  ]
+}
